@@ -1,0 +1,2 @@
+HUGGING_FACE_HUB_TOKEN=<HF_TOKEN_HERE>
+VLLM_API_URL=http://vllm-service:8000/v1/chat/completions
